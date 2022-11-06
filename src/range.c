@@ -28,4 +28,3 @@ create_cspan( const void * const begin, const int64_t n, const int64_t step ) {
 
     return result;
 }
-
